@@ -3,6 +3,6 @@
 - This is my first project in my life.
 
 ## Used Technologies
--HTML
-CSS
+- TML
+- CSS
 
